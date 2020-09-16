@@ -1,0 +1,55 @@
+header{background-image: url(flywheel.jpg);align-content: center;text-decoration: none;}
+h1 {
+  text-align: center;
+  color: #FFFFFF;
+  font-size: xx-large;
+  text-transform: uppercase;
+}
+body{margin: 4px;}
+a:active{background:#ffffff ;color:#cc6600;}
+a{text-decoration: none;color:  #800000}
+.left img{width: 150px;display: block;border: 3px;float: left;}
+ .left{
+  display: inline-block;
+  float: left;
+  width: 225px;
+  height: 600px;
+  background-color: #5e9281;
+  margin: 0px 20px 0px;
+  padding: 20px 1px;
+  text-align: center;
+}
+
+.right{
+  display:inline-block;
+  width:60%;
+  }
+  nav a{
+  display: inline-block;
+  margin: 2%;
+
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  -o-border-radius: 3;
+  border-radius: 5px;
+
+  text-decoration: none;
+  padding: 2%;
+
+  color: #000000;
+  text-align: center;
+  vertical-align: middle;
+  background-color: rgba(218,234,213,0.60);
+  width:16%;
+  height: 20px;
+  font-size: x-large;
+}
+table{font-family: Times new roman;font-size: 130%; width: 80%;margin-left: auto;margin-right: auto}
+th{background-color: #f59342;border-color:#000000;text-align: center;margin: 4%;border-bottom: thick;border-top-right-radius:}
+td{padding: 2%;color: #cc0641;background-color: #bfd9ce;border-radius:2px;opacity:0.6}
+th:first-child{
+	text-align: left;
+}
+tr:hover{
+	opacity: 1; background-color:#b5e7a0
+}
